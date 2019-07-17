@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/diennea/herddb.svg?branch=master)](https://travis-ci.org/diennea/herddb) [![Coverage Status](https://coveralls.io/repos/github/diennea/herddb/badge.svg?branch=master)](https://coveralls.io/github/diennea/herddb?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faluccaroni%2Fherddb.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Faluccaroni%2Fherddb?ref=badge_shield)
 
 
 # What is HerdDB ?
@@ -40,3 +41,6 @@ Join the [mailing list](http://lists.herddb.org/mailman/listinfo)
 
 HerdDB is under [Apache 2 license](http://www.apache.org/licenses/LICENSE-2.0.html).
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faluccaroni%2Fherddb.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faluccaroni%2Fherddb?ref=badge_large)
